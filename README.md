@@ -4,9 +4,12 @@ The code recovers the work of "https://arxiv.org/abs/1703.06870" but does not in
 So the work that ralice is, modifying the code to perform the detection of keypoints
 
 ### segmented image with the original code
-<img src="Mask_R_CNN_Keypoints/pictures/segmented_image.png" width="400">
+<img src="https://github.com/RodrigoGantier/Mask_R_CNN_Keypoints/blob/master/pictures/segmented_image.png" width="400">
+
+## hola
+![](pictures/segmented_image.png)
 
 
 ### Test Picture for keypoints
-<img src="Mask_R_CNN_Keypoints/pictures/test_1.png" width="400">
+<img src="pictures/test_1.png" width="400">
 

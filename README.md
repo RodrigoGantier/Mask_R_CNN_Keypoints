@@ -1,7 +1,7 @@
 # Mask_R_CNN_Keypoints
 The original code is from "https://github.com/matterport/Mask_RCNN" on Python 3, Keras, and TensorFlow.
 The code reproduce the work of "https://arxiv.org/abs/1703.06870" but does not include code for keypoints.  
-So the work that ralice is, modifying the code to perform the detection of keypoints.
+So the work that ralice in this publication is: # modify the code to perform the detection of keypoints.
 
 The trainig file is "main", you can biging with thid file.
 

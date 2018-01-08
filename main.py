@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 import tensorflow as tf
 
 from Mask_R_CNN_KERAS.config import Config
-from Mask_R_CNN_KERAS import my_utils as utils
-from Mask_R_CNN_KERAS import my_model_2 as modellib
+from Mask_R_CNN_KERAS import utils as utils
+from Mask_R_CNN_KERAS import model as modellib
 from Mask_R_CNN_KERAS import visualize
 from Mask_R_CNN_KERAS.model import log
 

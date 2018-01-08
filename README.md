@@ -4,3 +4,4 @@ The code recovers the work of "https://arxiv.org/abs/1703.06870" but does not in
 So the work that ralice is, modifying the code to perform the detection of keypoints
 
 ### segmented image with the original code
+![](Mask_R_CNN_Keypoints/Screenshot%from%2017-11-09 12-43-10.png)

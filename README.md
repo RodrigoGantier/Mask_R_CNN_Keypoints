@@ -4,7 +4,7 @@ The code recovers the work of "https://arxiv.org/abs/1703.06870" but does not in
 So the work that ralice is, modifying the code to perform the detection of keypoints
 
 ### segmented image with the original code
-![segmented image with the original code](Mask_R_CNN_Keypoints/pictures/segmented_image.png)
+![segmented image with the original code]( Mask_R_CNN_Keypoints/pictures/segmented_image.png )
 
 ### Test Picture for keypoints
 ![Detection and Ground True](Mask_R_CNN_Keypoints/pictures/test_1.png)

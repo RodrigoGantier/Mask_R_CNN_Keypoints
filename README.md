@@ -12,3 +12,7 @@ The resunts are far from the original paper
 ### Test Picture for keypoints
 <img src="pictures/test_1.png" width="600">
 
+### Network output
+<img src="pictures/output_layer.png" width="600">
+
+This picture reprecents the last layer in the betwork

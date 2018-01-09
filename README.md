@@ -4,6 +4,7 @@ The code reproduce the work of "https://arxiv.org/abs/1703.06870" but does not i
 So the work that ralice in this publication is: # modify the code to perform the detection of keypoints.
 
 The trainig file is "main", you can biging with thid file.
+The weights are uploaded in release section 
 
 ### segmented image with the original code
 <img src="pictures/segmented_image.png" width="400">

@@ -5,6 +5,8 @@ So the work that ralice in this publication is: # modify the code to perform the
 
 The trainig file is "main", you can biging with thid file.
 
+The dataset is in https://challenger.ai/competition/keypoint/subject
+
 #### The weights are uploaded in release section.
 
 ### segmented image with the original code

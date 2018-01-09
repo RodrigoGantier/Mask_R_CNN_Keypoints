@@ -19,4 +19,4 @@ The resunts are far from the original paper
 ### Network output
 <img src="pictures/output_layer.png" width="600">
 
-This picture reprecents the last layer in the betwork
+   This picture reprecents the last layer in the network

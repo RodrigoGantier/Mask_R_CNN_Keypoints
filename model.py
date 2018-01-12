@@ -1018,8 +1018,8 @@ def mask_class_loss_graph(target_mask_class, pred_class, target_class_ids):
 
     # Loss
     loss = K.switch(tf.size(target_class) > 0,
-                    tf.nn.sparse_softmax_cross_entropy_with_logits(labels=target_class, logits=pred_class),
-                    tf.constant(0.0))
+                    lambda: tf.nn.sparse_softmax_cross_entropy_with_logits(labels=target_class, logits=pred_class),
+                    lambda: tf.constant(0.0))
     # Computer loss mean. Use only predictions that contribute
     # to the loss to get a correct mean.
     loss = tf.reduce_mean(loss)

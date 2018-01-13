@@ -22,3 +22,5 @@ The resunts are far from the original paper
 <img src="pictures/output_layer.png" width="600">
 
    This picture reprecents the last layer in the network
+   
+P.S: modified json files are uploaded in release 2.
